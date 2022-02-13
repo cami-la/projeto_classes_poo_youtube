@@ -1,11 +1,10 @@
 package dev.camila.test;
 
-import dev.camila.Rectangle;
 import dev.camila.Square;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SquareTest {
 
