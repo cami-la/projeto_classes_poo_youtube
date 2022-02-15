@@ -3,6 +3,7 @@ package dev.camila.test;
 import dev.camila.Assessment;
 import dev.camila.Enrollment;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.text.DecimalFormat;
