@@ -1,6 +1,6 @@
 <h1>ExerciciosClasses </h1>
 
-<p align="center">▶️ PLAYLIST COM OS EXERCÍCIOS RESOLVIDOS POO CLASSES - JAVA  ▶️</p>
+<p align="center">▶️ <a href="https://www.youtube.com/watch?v=xeNGdvNrU6A&list=PL8kiySPPUO-xTcQQ-dY6QBkySwshCyUFh">PLAYLIST COM OS EXERCÍCIOS RESOLVIDOS POO CLASSES - JAVA  </a>▶️</p>
 <p align="center">⚠️<em> Alguns dos exercícios foram adaptados do <a href="https://wiki.python.org.br/ExerciciosClasses">site Python Brasil! </a></em>⚠️</p>
 
 <h2>
